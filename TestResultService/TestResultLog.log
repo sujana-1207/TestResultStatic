@@ -1,0 +1,32 @@
+INFO  05:17:19 Application started. Press Ctrl+C to shut down.
+INFO  05:17:19 Application started. Press Ctrl+C to shut down.
+INFO  05:17:19 Hosting environment: Development
+INFO  05:17:19 Hosting environment: Development
+INFO  05:17:19 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResultService
+INFO  05:17:19 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResultService
+INFO  05:17:32 Get All is accessed
+INFO  05:17:32 All information fetched.
+INFO  05:17:38 Get TestResults by Id accessed
+INFO  05:17:38 Successfully retrieved details for Id: 2
+INFO  09:02:11 Application started. Press Ctrl+C to shut down.
+INFO  09:02:11 Application started. Press Ctrl+C to shut down.
+INFO  09:02:11 Hosting environment: Development
+INFO  09:02:11 Hosting environment: Development
+INFO  09:02:11 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResultService
+INFO  09:02:11 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResultService
+INFO  09:15:31 Application started. Press Ctrl+C to shut down.
+INFO  09:15:31 Application started. Press Ctrl+C to shut down.
+INFO  09:15:31 Hosting environment: Development
+INFO  09:15:31 Hosting environment: Development
+INFO  09:15:31 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResultService
+INFO  09:15:31 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResultService
+INFO  09:15:45 Get TestResults by Id accessed
+INFO  09:15:45 Successfully retrieved details for Id: 2
+INFO  04:05:39 Application started. Press Ctrl+C to shut down.
+INFO  04:05:39 Application started. Press Ctrl+C to shut down.
+INFO  04:05:39 Hosting environment: Development
+INFO  04:05:39 Hosting environment: Development
+INFO  04:05:39 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResult\TestResultService
+INFO  04:05:39 Content root path: C:\Users\Lenovo\source\repos\Project_Static\TestResult\TestResultService
+INFO  04:06:35 Get TestResults by Id accessed
+INFO  04:06:35 Successfully retrieved details for Id: 3
